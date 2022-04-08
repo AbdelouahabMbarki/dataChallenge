@@ -1,4 +1,4 @@
-# Data DevOps challenge
+# Data DevOps Challenge
 Coding chanllenge using Terraform and python
 
 <img src="https://raw.githubusercontent.com/AbdelouahabMbarki/svg_assets/main/code.gif" alt="terraform" width="450" height="auto"/>
